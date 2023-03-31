@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3054,
+    "id" : "https://msteinfels.github.io/Brown-Book1/images/06-d-2004-84-654c_001-22_cr/canvas/",
+    "label" : {
+      "none" : [ "06-d-2004-84-654c_001-22_cr" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://msteinfels.github.io/Brown-Book1/images/06-d-2004-84-654c_001-22_cr/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://msteinfels.github.io/Brown-Book1/images/06-d-2004-84-654c_001-22_cr/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 96,
+              "height" : 125
+            }, {
+              "width" : 191,
+              "height" : 250
+            }, {
+              "width" : 382,
+              "height" : 500
+            }, {
+              "width" : 764,
+              "height" : 1000
+            }, {
+              "width" : 1527,
+              "height" : 2000
+            }, {
+              "width" : 3054,
+              "height" : 4000
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3054,
+            "@id" : "https://msteinfels.github.io/Brown-Book1/images/06-d-2004-84-654c_001-22_cr",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 4000
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3054,
+          "id" : "https://msteinfels.github.io/Brown-Book1/images/06-d-2004-84-654c_001-22_cr/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 4000
+        },
+        "target" : "https://msteinfels.github.io/Brown-Book1/images/06-d-2004-84-654c_001-22_cr/canvas/"
+      } ]
+    } ],
+    "height" : 4000
+  }, {
     "width" : 3040,
     "id" : "https://msteinfels.github.io/Brown-Book1/images/05-d-2004-84-654b_001-22_cr/canvas/",
     "label" : {
