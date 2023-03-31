@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 98,
+    "height" : 125
+  }, {
+    "width" : 195,
+    "height" : 250
+  }, {
+    "width" : 389,
+    "height" : 500
+  }, {
+    "width" : 778,
+    "height" : 1000
+  }, {
+    "width" : 1555,
+    "height" : 2000
+  }, {
+    "width" : 3110,
+    "height" : 4000
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3110,
+  "@id" : "https://msteinfels.github.io/Brown-Book1/images/04-d-2004-84-654a_001-22_cr",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4000
+}
