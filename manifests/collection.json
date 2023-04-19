@@ -19,10 +19,6 @@
     "label" : "Front cover of Sonia Landy Sheridan's Brown Book 1"
   }, {
     "@type" : "sc:Manifest",
-    "@id" : "https://msteinfels.github.io/Brown-Book1/manifests/005-P2.json",
-    "label" : "Page 2 from Brown Book 2"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://msteinfels.github.io/Brown-Book1/manifests/003-Inscription-fixed.json",
     "label" : "Inscription in Brown Book 1, written by Sonia Landy Sheridan"
   } ]
