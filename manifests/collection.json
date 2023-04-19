@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://msteinfels.github.io/Brown-Book1/manifests/001-CoverPage.json",
     "label" : "Front cover of Sonia Landy Sheridan's Brown Book 1"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msteinfels.github.io/Brown-Book1/manifests/003-Inscription.json",
+    "label" : "Inscription in Brown Book 1, written by Sonia Landy Sheridan"
   } ]
 }
