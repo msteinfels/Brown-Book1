@@ -1,0 +1,261 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://msteinfels.github.io/Brown-Book1/manifests/006-P3.json",
+  "@type" : "sc:Manifest",
+  "label" : "Page 3 from Brown Book 1",
+  "description" : "",
+  "metadata" : [ {
+    "label" : "Original filename",
+    "value" : "d-2004-84-654d_001-22_cr.tif"
+  }, {
+    "label" : "Source",
+    "value" : [ {
+      "@value" : "Digital Camera",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Pixel height",
+    "value" : "5400"
+  }, {
+    "label" : "Pixel width",
+    "value" : "2775"
+  }, {
+    "label" : "Rowchecksum",
+    "value" : "-944837243"
+  }, {
+    "label" : "File Extension",
+    "value" : "tif"
+  }, {
+    "label" : "Object ID",
+    "value" : "53732"
+  }, {
+    "label" : "Object Number",
+    "value" : "D.2004.84.654c"
+  }, {
+    "label" : "Object Name",
+    "value" : "Drawing"
+  }, {
+    "label" : "Artist/Maker",
+    "value" : "Sonia Landy Sheridan, American, 1925 - 2021"
+  }, {
+    "label" : "Date Label",
+    "value" : "March 7, 1983"
+  }, {
+    "label" : "Early Date Made",
+    "value" : "1983"
+  }, {
+    "label" : "Late Date Made",
+    "value" : "1983"
+  }, {
+    "label" : "Nationality",
+    "value" : "American"
+  }, {
+    "label" : "Title",
+    "value" : "Notebook: Brown Book 1, 3/17/83 - 7/27/83, page 3 of 75"
+  }, {
+    "label" : "Research Area",
+    "value" : "Drawing"
+  }, {
+    "label" : "Period",
+    "value" : "20th century"
+  }, {
+    "label" : "Geography",
+    "value" : "Place Made: United States, North America"
+  }, {
+    "label" : "Medium",
+    "value" : "Ink on paper"
+  }, {
+    "label" : "Subjects",
+    "value" : "Woman Artist"
+  }, {
+    "label" : "Credit Line",
+    "value" : "Gift of the artist"
+  }, {
+    "label" : "Copyright Status",
+    "value" : "Under Copyright"
+  }, {
+    "label" : "On web?",
+    "value" : [ {
+      "@value" : "No",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "View",
+    "value" : [ {
+      "@value" : "Alternate",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Has Object Target",
+    "value" : [ {
+      "@value" : "Yes",
+      "@language" : "en"
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://hood.resourcespace.com/iiif/image/78604/full/thm/0/default.jpg",
+    "@type" : "dctypes:Image",
+    "height" : 175,
+    "width" : 90,
+    "format" : "image/jpeg",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "https://hood.resourcespace.com/iiif/image/78604",
+      "profile" : "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "sequences" : [ {
+    "@id" : "https://hood.resourcespace.com/iiif/53732/sequence/normal",
+    "@type" : "sc:Sequence",
+    "label" : "Default order",
+    "canvases" : [ {
+      "@id" : "https://hood.resourcespace.com/iiif/53732/canvas/0",
+      "@type" : "sc:Canvas",
+      "label" : "0",
+      "height" : 5400,
+      "width" : 2775,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/78604/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 175,
+        "width" : 90,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/78604",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/53732/annotation/0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/78604/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 5400,
+          "width" : 2775,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/78604",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/53732/canvas/0"
+      } ]
+    }, {
+      "@id" : "https://hood.resourcespace.com/iiif/53732/canvas/1",
+      "@type" : "sc:Canvas",
+      "label" : "1",
+      "height" : 8512,
+      "width" : 8297,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/78604/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 175,
+        "width" : 171,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/78604",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/53732/annotation/1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/78604/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8512,
+          "width" : 8297,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/78604",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/53732/canvas/1"
+      } ]
+    }, {
+      "@id" : "https://hood.resourcespace.com/iiif/53732/canvas/2",
+      "@type" : "sc:Canvas",
+      "label" : "2",
+      "height" : 7592,
+      "width" : 5796,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/78604/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 175,
+        "width" : 134,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/78604",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/53732/annotation/2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/78604/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 7592,
+          "width" : 5796,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/78604",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/53732/canvas/2"
+      } ]
+    }, {
+      "@id" : "https://hood.resourcespace.com/iiif/53732/canvas/3",
+      "@type" : "sc:Canvas",
+      "label" : "3",
+      "height" : 3300,
+      "width" : 2400,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/78604/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 175,
+        "width" : 127,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/78604",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/53732/annotation/3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/78604/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3300,
+          "width" : 2400,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/78604",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/53732/canvas/3"
+      } ]
+    } ]
+  } ]
+}
