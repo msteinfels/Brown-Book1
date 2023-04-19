@@ -15,10 +15,6 @@
     "label" : "Page 1 from Brown Book 1"
   }, {
     "@type" : "sc:Manifest",
-    "@id" : "https://msteinfels.github.io/Brown-Book1/manifests/002-ThePaper.json",
-    "label" : "N/A"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://msteinfels.github.io/Brown-Book1/manifests/003-Inscription.json",
     "label" : "N/A"
   } ]
