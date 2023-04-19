@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://msteinfels.github.io/Brown-Book1/manifests/005-P2.json",
   "@type" : "sc:Manifest",
-  "label" : "Page 2 from Brown Book 2",
+  "label" : "Page 2 from Brown Book 1",
   "description" : "",
   "metadata" : [ {
     "label" : "Original filename",
