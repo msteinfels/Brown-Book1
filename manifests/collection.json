@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://msteinfels.github.io/Brown-Book1/manifests/001-CoverPage.json",
-    "label" : "Cover Page: Brown Book 1, 3/17/83 - 7/27/83"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://msteinfels.github.io/Brown-Book1/manifests/004-P1.json",
     "label" : "Page 1 from Brown Book 1"
   }, {
