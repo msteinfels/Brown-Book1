@@ -25,5 +25,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://msteinfels.github.io/Brown-Book1/manifests/005-P2.json",
     "label" : "Page 2 from Brown Book 1"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msteinfels.github.io/Brown-Book1/manifests/006-P3.json",
+    "label" : "Page 3 from Brown Book 1"
   } ]
 }
